@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# Scores saved on your own computer (may contain real player names)
+local_leaderboard.json
+local_leaderboard.tmp
+local_leaderboard.corrupt.json
